@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cosmetic/static/css/main.073c9b0a.css",
+    "main.js": "/cosmetic/static/js/main.1495a6e6.js",
+    "static/js/787.329fff05.chunk.js": "/cosmetic/static/js/787.329fff05.chunk.js",
+    "static/media/logo.svg": "/cosmetic/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cosmetic/index.html",
+    "main.073c9b0a.css.map": "/cosmetic/static/css/main.073c9b0a.css.map",
+    "main.1495a6e6.js.map": "/cosmetic/static/js/main.1495a6e6.js.map",
+    "787.329fff05.chunk.js.map": "/cosmetic/static/js/787.329fff05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1495a6e6.js"
+  ]
+}
