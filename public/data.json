@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "product name 01",
+    "desc": "product info 01",
+    "img": "/assets/img/album01.jpg",
+    "color": ["#f00", "#ff0", "#369"],
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "name": "product name 02",
+    "desc": "product info 02",
+    "img": "/assets/img/album02.jpg",
+    "color": ["#888", "#284", "#ddd"],
+    "price": 2000
+  },
+  {
+    "id": 3,
+    "name": "product name 03",
+    "desc": "product info 03",
+    "img": "/assets/img/album03.jpg",
+    "color": ["#f87", "#125", "#513"],
+    "price": 3000
+  }
+]

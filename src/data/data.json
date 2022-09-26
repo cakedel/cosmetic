@@ -1,0 +1,22 @@
+const company = {
+  name: "cake shop",
+  address: "부산시 북구 만덕동 함박봉로 140-21",
+  tel: "051-783-2317",
+  fax: "051-783-2318",
+  img: "/assets/img/recommand01.jpg"
+  ceo: "홍지원",
+};
+
+const profile = {
+  slogan: "The more sugar, The more happiness",
+};
+
+const content = [
+  { id: 11, con: "slogan01", desc: "naeyong lorem ipsum01" },
+  { id: 22, con: "slogan01", desc: "naeyong lorem ipsum02" },
+  { id: 33, con: "slogan01", desc: "naeyong lorem ipsum03" },
+  { id: 44, con: "slogan01", desc: "naeyong lorem ipsum04" },
+  { id: 55, con: "slogan01", desc: "naeyong lorem ipsum05" },
+];
+
+export { company, profile, content };
