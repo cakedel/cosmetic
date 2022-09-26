@@ -16,7 +16,7 @@ const Details = ({ list }) => {
       <img
         src={match.image_link}
         onError={(e) =>
-          (e.target.src = process.env.PUBLIC_URL + "/assets/recommand01.jpg")
+          (e.target.src = process.env.PUBLIC_URL + "/assets/img/recommand01.jpg")
         }
         alt=""
       />
